@@ -13,4 +13,4 @@ kody źródłowe do pobrania w zależności od rodzajów klasyfikatorów<br>
 
 <br>
 wyniki klasyfikacji zapisywane są do pliku w formacie:
-<b> nazwaKlasyfikatora_nazwaKatalogu.csv
+<tt>nazwaKlasyfikatora_nazwaKatalogu.csv</tt>
