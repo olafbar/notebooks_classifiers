@@ -15,4 +15,5 @@ kody źródłowe do pobrania w zależności od rodzajów klasyfikatorów<br>
 wyniki klasyfikacji zapisywane są do pliku w formacie:
 <tt>nazwaKlasyfikatora_nazwaKatalogu.csv</tt>
 
-<b><tt> cnn_multiclass_classifier.zip<tt> <b> : model głęboki uwzględniający niepewność
+<b><tt> cnn_multiclass_classifier.zip<tt> </b> : model głęboki uwzględniający niepewność
+[artykuł naukowy dostępny :](https://www.mdpi.com/1424-8220/21/6/1963) 
