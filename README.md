@@ -10,7 +10,7 @@ kody źródłowe do pobrania w zależności od rodzajów klasyfikatorów<br>
 <br>CNN_big_w0,CNN_big_w2,CNN_big_w20,CNN_big_w2_20,CNN_big_raw,
 <br> dodano CNN_small_w2_10, CNN_big_w2_10, CNN_small_w0_2, CNN_big_w0_2
 <br>
-<b>base</b> dla baseline, baseline_knn, baseline_rf
+<br><b>base</b> dla baseline, baseline_knn, baseline_rf
 
 <br>
 wyniki klasyfikacji zapisywane są do pliku w formacie:
