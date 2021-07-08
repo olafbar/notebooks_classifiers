@@ -2,7 +2,8 @@
 
 kody źródłowe do pobrania w zależności od rodzajów klasyfikatorów<br>
 
-<b>STD</b> dla etc,bagsvc,gbc,rf,vot  (do zrobienia mlp,nsv,svc,knn)<br>
+<b>STD</b> dla etc,bagsvc,gbc,rf,vot
+<br> dodano: mlp,nsv,svm,knn)<br>
 
 <b>CNN</b> dla 
 <br>CNN_small_w0,CNN_small_w2,CNN_small_w20,CNN_small_w2_20,CNN_small_raw,
