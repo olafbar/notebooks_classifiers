@@ -1,5 +1,8 @@
 # notebooks_classifiers
 
+
+</h2>
+
 kody źródłowe do pobrania w zależności od rodzajów klasyfikatorów<br>
 Modele **czteroklasowe** (0,1,2,3):
 - <b>STD</b> dla etc,bagsvc,gbc,rf,vot
@@ -12,10 +15,7 @@ Modele **dwuklasowe** (0,1):
 <br>   CNN_small_w0_2, CNN_big_w0_2
 - <b>base</b> dla baseline, baseline_knn, baseline_rf
 
-
-<br><b>UWAGA</b>
-<br>Modele :dodano CNN_small_w2_10,CNN_big_w2_10,CNN_big_w20,CNN_big_w2_20
-wymagają zbyd dużo RAM, należy plik z obrazami podzielić na częsci
+  ### UWAGA!! Modele :CNN_small_w2_10,CNN_big_w2_10,CNN_big_w20,CNN_big_w2_20 wymagają zbyt dużo RAM, należy plik z obrazami podzielić na częsci
 
 
 <br>
