@@ -30,3 +30,8 @@ wyniki klasyfikacji zapisywane są do pliku w formacie:
 
 <b><tt> cnn_multiclass_classifier.zip</tt> </b> : model głęboki uwzględniający niepewność
 <br>[artykuł naukowy](https://www.mdpi.com/1424-8220/21/6/1963) 
+
+<br>
+pliki  z obrazami do analizy zajndują się w lokalizacjach:
+<br> https://user.credo.science/user-interface/download/images
+<br> https://user.credo.science/user-interface/download/images_ios
