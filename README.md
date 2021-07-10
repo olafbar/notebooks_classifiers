@@ -32,11 +32,11 @@ wyniki klasyfikacji zapisywane są do pliku w formacie:
 <br>[artykuł naukowy](https://www.mdpi.com/1424-8220/21/6/1963) 
 
 <br>
-pliki  z obrazami do analizy zajndują się w lokalizacjach:
+pliki  z obrazami do analizy zajndują się w lokalizacjach(odpowiedni dla Androida i IOSa):
 <br> https://user.credo.science/user-interface/download/images
 <br> https://user.credo.science/user-interface/download/images_ios
 
-Uruchamiając notanik należy zdefiniować nazwę klasyfikatora, plik do pobrania podając do zmiennej dir jedynie numery pliku 
+Uruchamiając notatnik należy zdefiniować nazwę klasyfikatora, plik do pobrania podając do zmiennej dir jedynie numery pliku 
 oraz zmodyfikować śceżkę dla polecenia wget.
 
 
