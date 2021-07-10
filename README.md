@@ -16,7 +16,7 @@ Modele **dwuklasowe** :
 <br>   CNN_small_w0_2, CNN_big_w0_2
 
 
-- <b>base</b> dla baseline, baseline_knn, baseline_rf
+- <b>base_classifier_v2.ipynb</b> dla baseline, baseline_knn, baseline_rf
 
   ### UWAGA!! Modele :CNN_small_w2_10,CNN_big_w2_10,CNN_big_w2_20,CNN_big_w2_20 wymagają zbyt dużo RAM, należy plik z obrazami podzielić na częsci
 
