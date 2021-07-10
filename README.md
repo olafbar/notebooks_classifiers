@@ -36,5 +36,18 @@ pliki  z obrazami do analizy zajndują się w lokalizacjach:
 <br> https://user.credo.science/user-interface/download/images
 <br> https://user.credo.science/user-interface/download/images_ios
 
-Uruchamiając notanik należy zdefiniować plik do pobrania podając do zmiennej dir jedynie numery pliku 
-oraz zmodyfikować śceżkę dla polecenia wget
+Uruchamiając notanik należy zdefiniować nazwę klasyfikatora, plik do pobrania podając do zmiennej dir jedynie numery pliku 
+oraz zmodyfikować śceżkę dla polecenia wget.
+
+
+classifier='CNN_small_raw'
+
+dla Androida:
+
+dir='01'  
+url='https://user.credo.science/user-interface/download/images/download.php?name='+dir+'.zip -O '+dir+'.zip'
+
+dla IOSa
+
+dir='001'  
+url='https://user.credo.science/user-interface/download/images_ios/download.php?name='+dir+'.zip -O '+dir+'.zip'
