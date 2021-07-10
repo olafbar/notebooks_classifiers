@@ -35,3 +35,6 @@ wyniki klasyfikacji zapisywane są do pliku w formacie:
 pliki  z obrazami do analizy zajndują się w lokalizacjach:
 <br> https://user.credo.science/user-interface/download/images
 <br> https://user.credo.science/user-interface/download/images_ios
+
+Uruchamiając notanik należy zdefiniować plik do pobrania podając do zmiennej dir jedynie numery pliku 
+oraz zmodyfikować śceżkę dla polecenia wget
