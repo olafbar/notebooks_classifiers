@@ -5,9 +5,9 @@
 
 kody źródłowe do pobrania w zależności od rodzajów klasyfikatorów<br>
 Modele **czteroklasowe** 
-- <b>STD</b> dla etc,bagsvc,gbc,rf,vot
-<br> dodano: mlp,nsv,svm,knn<br>
-<br> dodano: ovo_mlp, ovo_svm, ovr_mlp<br>
+- <b>STD_classifier.ipynb </b> 
+<br>dla klasyfikatorów : etc,bagsvc,gbc,rf,vot, mlp,nsv,svm,knn ovo_mlp, ovo_svm, ovr_mlp<br>
+
 
 Modele **dwuklasowe** (0,1):
 - <b>CNN</b> dla 
